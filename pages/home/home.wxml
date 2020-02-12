@@ -1,0 +1,11 @@
+<!--pages/home/home.wxml-->
+<text>pages/home/home.wxml</text>
+
+<button>按钮</button>
+<button>按钮</button>
+<button>按钮</button>
+<button>按钮</button>
+<button>按钮</button>
+<button>按钮</button>
+<text class="title">Heelo word</text>
+
